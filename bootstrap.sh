@@ -1,0 +1,12 @@
+git clone https://github.com/Roland4444/messaging;
+cd messaging/;
+mvn install;
+cd ../;
+git clone https://github.com/Roland4444/Executor;
+cd Executor/;
+mvn install;
+cd ../;
+git clone https://github.com/Roland4444/JAKtor_Rollback;
+cd JAKtor_Rollback;
+mvn install;
+cd ../;
