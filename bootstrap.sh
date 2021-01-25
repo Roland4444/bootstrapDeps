@@ -1,3 +1,7 @@
+git clone https://github.com/Roland4444/SMEVMessage;
+cd SMEVMessage;
+mvn install;
+cd ../;
 git clone https://github.com/Roland4444/messaging;
 cd messaging/;
 mvn install;
